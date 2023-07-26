@@ -1,5 +1,5 @@
 # Base image
-FROM simple-python-flask-app
+FROM manghnani/simple-python-flask-app
 
 # Set the working directory inside the container
 WORKDIR /app
